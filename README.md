@@ -16,4 +16,5 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Preview: ![image](https://github.com/user-attachments/assets/4babf1f7-464f-49a6-a7f1-a1d5a61c7f11)
+Preview: ![image](https://github.com/user-attachments/assets/fcce8f7c-b501-4ff1-a66f-aebfc3e47a37)
+
